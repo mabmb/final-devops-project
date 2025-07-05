@@ -1,0 +1,11 @@
+﻿# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Large files
+*.zip
+*.exe
+*.jar
+*.bin
